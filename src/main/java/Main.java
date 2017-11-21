@@ -7,10 +7,8 @@ public class Main {
 	}
 	
 	public Item calculateReceipt(Item aa){
-		
-		
-		
 		return aa;
+		//pippo
 	}
 	
 }
