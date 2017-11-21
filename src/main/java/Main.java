@@ -9,7 +9,7 @@ public class Main {
 	public Item calculateReceipt(Item aa){
 		
 		
-		aa.setDescription("pippo");
+		
 		return aa;
 	}
 	
