@@ -38,8 +38,7 @@ public class Test1 extends TestCase{
 		DetermineReceipt receipt = new DetermineReceipt();
 		List<Item> va =  receipt.calculateReceipt(vals);
 
-		System.out.println("dddd");
-		System.out.println(va.get(0).getDescription());
+		
 	}
 	
 	
